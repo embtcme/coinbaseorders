@@ -6,7 +6,8 @@ The app is based on Nette Framework http://nette.org/ . Nette was chosen for its
 
 PHP >= 5.3 is required.
 
-*** FIRST RUN
+FIRST RUN
+---------
 1, Make directories `temp` and `log` writable.
 2, Copy /app/config/config.local.neon.sample to /app/config/config.local.neon
 3, Create a new MySQL database and run database-setup.sql on it
