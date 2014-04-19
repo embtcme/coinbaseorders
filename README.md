@@ -1,8 +1,6 @@
-coinbaseorders
-==============
-
 Coinbase Limit Orders app
 http://coinbaseorders.com/
+==========================
 
 The app is based on Nette Framework http://nette.org/ . Nette was chosen for its security: http://doc.nette.org/en/2.1/vulnerability-protection
 
